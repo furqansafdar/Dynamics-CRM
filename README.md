@@ -1,4 +1,4 @@
 # Dynamics-CRM
 
-- Certification Dumps
-- Frequently used scripts dasdasddsad
+- Certification dumps
+- Frequently used scripts
